@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @scriptor-pro
-- 👀 I’m interested in content, mostly text and how to make it shine
-- 🌱 I'm mostly into HTML, CSS, A11Y.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bvh AT scriptor.pro
+# Hi, I'm scriptor-pro 👋
 
-<!---
-scriptor-pro/scriptor-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Writer / Geek**
+
+Writer and geek passionate about building creative worlds with words and code. I specialize in HTML and CSS, and I love exploring the intersection of storytelling and technology. Always learning, always tinkering.
+
+## 🚀 Top Skills
+- HTML
+- CSS
+
+## 🌟 Favorite Project
+- [untrump](https://github.com/scriptor-pro/untrump)
+
+## 🌐 Connect
+- Bluesky: [@bvh.fyi](https://bsky.app/profile/bvh.fyi)
+
+---
+
+*“Always learning, always tinkering.”*
