@@ -14,6 +14,10 @@ Writer and geek passionate about building creative worlds with words and code. I
 ## 🌐 Connect
 - Bluesky: [@bvh.fyi](https://bsky.app/profile/bvh.fyi)
 
+## Digital Garden - Jardin Numérique
+
+[jndjs.dev](https://jndjs.dev)
+
 ---
 
 *“Always learning, always tinkering.”*
