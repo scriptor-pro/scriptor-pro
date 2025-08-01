@@ -8,6 +8,12 @@ Writer and geek passionate about building creative worlds with words and code. I
 - HTML
 - CSS
 
+## Currently working on :
+
+- [1jouralf](https://github.com/scriptor-pro/1jouralaf)
+
+Planning/to-do list app designed for people with ADHD, on the spectrum or both.
+
 ## 🌟 Favorite Project
 - [untrump](https://github.com/scriptor-pro/untrump)
 
