@@ -10,9 +10,7 @@ Writer and geek passionate about building creative worlds with words and code. I
 
 ## Currently working on :
 
-- [1jouralaf](https://github.com/scriptor-pro/1jouralaf)
-
-Planning/to-do list app designed for people with ADHD, on the spectrum or both. Tasks are shown only for the present day and take into account how much energy the user thinks he/she has for that day.
+QFQA - Quoi Faire Quand Aujourd'hui : a Planning/to-do list app designed for people with ADHD, on the spectrum or both. Tasks are shown only for the present day and take into account how much energy the user thinks he/she has for that day.
 
 ## 🌟 Favorite Project
 - [untrump](https://github.com/scriptor-pro/untrump)
